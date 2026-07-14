@@ -1,0 +1,1 @@
+Guida rapida per il giocatore.
