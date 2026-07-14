@@ -24,14 +24,15 @@ Si può aiutare un altro personaggio a superare la sua prova di Abilità compien
 
 # Abilità per caratteristica
 
+
 | Caratteristica      | Abilità                                                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | 💪 [[Forza]]        | [[Scalare]], [[Nuotare]]                                                                                                               |
-| 🤸 [[Destrezza]]    | [[Acrobazia]], [[Artista della fuga]], [[Cavalcare]], [[Furtività]], [[Rapidità di Mano]], [[Volare]]                                  |
-| ❤️ [[Costituzione]] | Nessuna                                                                                                                                |
+| 🤸 [[Destrezza]]    | [[Acrobazia]], [[Artista della fuga]], [[Cavalcare]], [[Disattivare Congegni]], [[Furtività]], [[Rapidità di Mano]], [[Volare]]        |
 | 🧠 [[Intelligenza]] | [[Artigianato]], [[Conoscenze]], [[Linguistica]], [[Sapienza Magica]], [[Valutare]]                                                    |
 | 👁 [[Saggezza]]     | [[Guarire]], [[Intuizione]], [[Percezione]], [[Professione]], [[Sopravvivenza]]                                                        |
 | ✨ [[Carisma]]       | [[Addestrare Animali]], [[Camuffare]], [[Diplomazia]], [[Intimidire]], [[Intrattenere]], [[Raggirare]], [[Utilizzare Congegni Magici]] |
+| ❤️ [[Costituzione]] | Nessuna                                                                                                                                |
 
 ---
 
