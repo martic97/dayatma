@@ -12,7 +12,7 @@ Se il bersaglio supera il Tiro Salvezza, applica l'effetto indicato nella descri
 
 ### Incantesimi con Tiro di Concentrazione
 - Se il lancio avviene in combattimento, l'incantatore effettua una **prova di Concentrazione**.
-- Se l'incantesimo è offensivo, il bersaglio effettua il **TS** contro la CD dell'incantesimo (.
+- Se l'incantesimo è offensivo, il bersaglio effettua il **TS** contro la **CD** dell'incantesimo.
 
 ### Incantesimi offensivi senza Tiro Salvezza
 - Se l'incantesimo offensivo **non** prevede un TS, l'incantatore effettua un **Tiro per Colpire (TpC)** con la propria caratteristica da incantatore.
@@ -33,7 +33,6 @@ Se il bersaglio supera il Tiro Salvezza, applica l'effetto indicato nella descri
     - vantaggio narrativo.
 
 ---
-
 # Prove di Concentrazione
 
 Quando un incantatore tenta di lanciare un incantesimo in una situazione difficile, deve effettuare una **prova di Concentrazione**.
@@ -42,8 +41,6 @@ Quando un incantatore tenta di lanciare un incantesimo in una situazione diffici
 
 **1d20 + Livello dell'incantatore + Modificatore della caratteristica da lancio ≥ CD della prova**
 Se la prova fallisce, l'incantesimo viene **perso** senza produrre effetti.
-
----
 
 ## Calcolo della CD di Concentrazione
 
@@ -65,6 +62,7 @@ Un mago di **5° livello** con **Intelligenza +4** lancia un incantesimo di **2�
 
 Il mago deve ottenere **17 o più** (minimo 8 sul dado + 9) per completare l'incantesimo.
 
+---
 # Controincantesimo
 
 Un incantatore può usare un **controincantesimo come reazione** quando un altro personaggio lancia un incantesimo.

@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f3c7
 ---
-## Descrizione
-
 Rappresenta la capacità di controllare una cavalcatura, muoversi in sella e compiere azioni durante la cavalcata.
 
 ### Caratteristica associata: [[Destrezza]]

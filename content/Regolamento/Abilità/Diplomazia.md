@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1f91d
 ---
-## Descrizione
-
 Rappresenta la capacità di comunicare in modo persuasivo, negoziare, convincere gli altri e gestire le relazioni sociali.
 
 ### Caratteristica associata: [[Carisma]]

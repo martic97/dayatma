@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f98b
 ---
-## Descrizione
-
 Rappresenta la capacità di controllare il movimento in aria, compiere manovre durante il volo e mantenere il controllo mentre si è in movimento.
 
 ### Caratteristica associata: [[Destrezza]]

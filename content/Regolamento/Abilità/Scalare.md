@@ -4,8 +4,6 @@ caratteristica: FOR
 penalita_armatura: true
 sticker: emoji//1f9d7
 ---
-## Descrizione
-
 Rappresenta la capacità di arrampicarsi su superfici ripide o verticali, sfruttando appigli e appoggi disponibili.
 
 ### Caratteristica associata: [[Forza]]

@@ -1,7 +1,5 @@
 ---
 type: fazione
-nome:
-immagine:
 tipo:
   - 
 stato:
@@ -10,12 +8,6 @@ atteggiamento:
   - 
 luogo_base:
 leader:
-membri_importanti:
-  - 
-nemici:
-  - 
-alleati:
-  - 
 ---
 ```columns
 id: fazione-info
@@ -36,13 +28,19 @@ id: fazione-info
 ```
 
 ---
-
 # Descrizione
 
-{{descrizione_breve}}
+breve descrizione
+
+## Storia
+
+Eventi importanti legati alla fazione.
+
+## Organizzazione
+
+Struttura interna, gerarchie, divisioni.
 
 ---
-
 # Identità
 
 ## Ideali
@@ -58,78 +56,21 @@ id: fazione-info
 -
 
 ---
-
-# Storia
-
-Eventi importanti legati alla fazione.
-
----
-
-# Organizzazione
-
-Struttura interna, gerarchie, divisioni.
-
----
-
 # Collegamenti
 
-## 👥 Membri
+## 📜 Missioni
 
-```dataview
-TABLE
-ruolo AS "Ruolo",
-stato AS "Stato"
-FROM "03. Mondo/NPC"
-WHERE contains(fazione, this.file.link)
-SORT file.name
-```
-
----
-
-## 📍 Luoghi collegati
-
-```dataview
-LIST
-FROM "003. Mondo/Luoghi"
-WHERE contains(fazioni, this.file.link)
-```
-
----
-
-## 📜 Missioni collegate
-
-```dataview
-TABLE
-stato AS "Stato"
-FROM "04. Campagna/Missioni"
-WHERE contains(fazioni, this.file.link)
-SORT file.name
-```
-
----
+- 
 
 ## 📅 Sessioni
 
-```dataview
-TABLE
-data AS "Data"
-FROM "03 - Campagna/Sessioni"
-WHERE contains(fazioni, this.file.link)
-SORT data DESC
-```
+- 
+
+## 👥 Membri
+
+- 
 
 ---
-
-## 🎒 Oggetti collegati
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Oggetti"
-WHERE contains(fazione, this.file.link)
-```
-
----
-
-# Note personali
+# Note
 
 - 

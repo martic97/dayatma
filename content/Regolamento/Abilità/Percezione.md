@@ -4,8 +4,6 @@ caratteristica: SAG
 penalita_armatura: false
 sticker: emoji//1f441-fe0f
 ---
-## Descrizione
-
 Rappresenta la capacità di notare dettagli, individuare pericoli e accorgersi di ciò che accade nell'ambiente circostante attraverso i cinque sensi.
 
 ### Caratteristica associata: [[Saggezza]]

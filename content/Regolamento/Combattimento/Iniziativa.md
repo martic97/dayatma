@@ -57,7 +57,6 @@ Quando si ritarda:
 3. Da quel momento la propria iniziativa cambia definitivamente.
 
 ---
-
 # Note
 
 - Preparare e ritardare sono azioni diverse:

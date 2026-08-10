@@ -4,8 +4,6 @@ caratteristica: FOR
 penalita_armatura: true
 sticker: emoji//1f3ca
 ---
-## Descrizione
-
 Rappresenta la capacità di muoversi in acqua, mantenersi a galla e affrontare correnti o altre condizioni difficili.
 
 ### Caratteristica associata: [[Forza]]

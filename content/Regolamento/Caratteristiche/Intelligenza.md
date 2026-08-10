@@ -9,13 +9,9 @@ tiri_salvezza_collegati:
 sigla: INT
 sticker: emoji//1f4da
 ---
----
-## Descrizione
-
 L'**Intelligenza** rappresenta la capacità di ragionamento, memoria, apprendimento e conoscenza del personaggio. Determina la quantità di informazioni che può apprendere e la sua capacità di utilizzare la magia arcana.
 
 ---
-
 # Utilizzi principali
 
 ## Statistiche collegate
@@ -24,8 +20,6 @@ L'**Intelligenza** rappresenta la capacità di ragionamento, memoria, apprendime
 - **Gradi abilità ottenuti per livello**
 - **Prove di abilità basate sull'Intelligenza**
 - **Incantesimi del Mago**
-
----
 
 ## Formule principali
 
@@ -45,11 +39,10 @@ Un alto punteggio di Intelligenza permette di apprendere linguaggi aggiuntivi, p
 **CD incantesimo = 10 + livello dell'incantesimo + Mod. Intelligenza**
 
 ---
-
 # Abilità collegate
 
-```dataview
-LIST
-FROM "0. Regolamento/Le Abilità"
-WHERE contains(caratteristica, this.sigla)
-SORT file.name
+- [[Artigianato]]
+- [[Conoscenze]]
+- [[Linguistica]]
+- [[Sapienza Magica]]
+- [[Valutare]]

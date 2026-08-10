@@ -21,7 +21,6 @@ Alcune armature applicano una penalità alle prove di abilità basate su:
 Si può aiutare un altro personaggio a superare la sua prova di Abilità compiendo lo stesso tipo di prova in uno sforzo comune. Se si ottiene **10 o più** alla prova, il personaggio che si vuole aiutare riceve **bonus +2** alla sua prova.
 
 ---
-
 # Abilità per caratteristica
 
 
@@ -35,5 +34,4 @@ Si può aiutare un altro personaggio a superare la sua prova di Abilità compien
 | ❤️ [[Costituzione]] | Nessuna                                                                                                                                |
 
 ---
-
 # Elenco abilità

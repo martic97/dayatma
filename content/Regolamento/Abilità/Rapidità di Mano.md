@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f44b
 ---
-## Descrizione
-
 Rappresenta la capacità di compiere movimenti rapidi e precisi con le mani, sottraendo o occultando oggetti senza essere notati.
 
 ### Caratteristica associata: [[Destrezza]]

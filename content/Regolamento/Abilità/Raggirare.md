@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1f3ad
 ---
-## Descrizione
-
 Rappresenta la capacità di mentire, ingannare e manipolare gli altri attraverso parole, gesti o comportamenti.
 
 ### Caratteristica associata: [[Carisma]]

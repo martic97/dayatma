@@ -9,14 +9,9 @@ tiri_salvezza_collegati:
 sigla: FOR
 sticker: emoji//1f4aa
 ---
----
-
-## Descrizione
-
 La **Forza** rappresenta la potenza fisica del personaggio, la capacità di esercitare forza bruta, sollevare pesi, compiere sforzi fisici e infliggere danni negli attacchi in mischia.
 
 ---
-
 # Utilizzi principali
 
 ## Statistiche collegate
@@ -27,8 +22,6 @@ La **Forza** rappresenta la potenza fisica del personaggio, la capacità di eser
 - **Bonus alle Manovre in Combattimento (BMC)**
 - **Capacità di carico**
 - **Prove di abilità basate sulla Forza**
-
----
 
 ## Formule principali
 
@@ -54,11 +47,8 @@ Utilizzato per:
 - Spingere
 
 ---
-
 # Abilità collegate
 
-```dataview
-LIST
-FROM "0. Regolamento/Le Abilità"
-WHERE contains(caratteristica, this.sigla)
-SORT file.name
+- [[Scalare]]
+- [[Nuotare]]
+

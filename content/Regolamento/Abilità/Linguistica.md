@@ -4,8 +4,6 @@ caratteristica: INT
 penalita_armatura: false
 sticker: emoji//1f445
 ---
-## Descrizione
-
 Rappresenta la conoscenza delle lingue e la capacità di comprendere, interpretare e decifrare testi e messaggi.
 
 ### Caratteristica associata: [[Intelligenza]]

@@ -64,7 +64,6 @@ Verifica se il nuovo livello concede un talento o un aumento di caratteristica:
 |      20 | 2.400.000 |    —    |         ✅         |
 
 ---
-
 # Promemoria
 
 - [ ] Aumenta i PF

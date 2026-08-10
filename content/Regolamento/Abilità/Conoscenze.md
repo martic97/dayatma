@@ -4,8 +4,6 @@ caratteristica: INT
 penalita_armatura: false
 sticker: emoji//1f4dc
 ---
-## Descrizione
-
 Rappresenta le conoscenze teoriche del personaggio in un determinato campo del sapere. Permette di ricordare informazioni, riconoscere elementi importanti e comprendere eventi, creature o fenomeni legati a uno specifico argomento.
 
 ### Caratteristica associata: [[Intelligenza]]

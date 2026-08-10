@@ -1,6 +1,5 @@
 ---
 type: oggetto_narrativo
-nome:
 immagine:
 categoria:
   - 
@@ -10,8 +9,6 @@ importanza:
   - 
 possessore:
 luogo_origine:
-luogo_attuale:
-creatore:
 fazioni:
   - 
 npc:
@@ -36,7 +33,7 @@ id: oggetto-info
 >
 > **Possessore:** `= this.possessore`
 >
-> **Luogo attuale:** `= this.luogo_attuale`
+> **Luogo attuale:** `= this.luogo`
 ```
 
 ---
@@ -45,15 +42,11 @@ id: oggetto-info
 
 {{descrizione_breve}}
 
----
-
-# Storia
+## Storia
 
 Origine dell'oggetto e avvenimenti importanti collegati.
 
----
-
-# Significato
+## Significato
 
 Perché questo oggetto è importante?
 
@@ -72,60 +65,25 @@ Cosa sappiamo del suo ruolo nella storia?
 - 
 
 ---
-
 # Collegamenti
 
-## 👤 NPC collegati
+## 📜 Missioni
 
-```dataview
-LIST
-FROM "02 - Ambientazione/NPC"
-WHERE contains(oggetti, this.file.link)
-```
-
----
-
-## 📍 Luoghi collegati
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Luoghi"
-WHERE contains(oggetti, this.file.link)
-```
-
----
-
-## 📜 Missioni collegate
-
-```dataview
-LIST
-FROM "03 - Campagna/Missioni"
-WHERE contains(oggetti, this.file.link)
-```
-
----
+- 
 
 ## 📅 Sessioni
 
-```dataview
-TABLE data_reale AS "Data"
-FROM "03 - Campagna/Sessioni"
-WHERE contains(oggetti, this.file.link)
-SORT numero ASC
-```
+- 
+
+## 👥 NPC collegati
+
+- 
+
+## 📍 Luoghi
+
+- 
 
 ---
+# Note
 
-## 🏛 Fazioni
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Fazioni"
-WHERE contains(oggetti, this.file.link)
-```
-
----
-
-# Note personali
-
--
+- 

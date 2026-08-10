@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1fa84
 ---
-## Descrizione
-
 Rappresenta la capacità di utilizzare oggetti magici anche quando il personaggio normalmente non possiede le conoscenze o le capacità necessarie per attivarli.
 
 ### Caratteristica associata: [[Carisma]]

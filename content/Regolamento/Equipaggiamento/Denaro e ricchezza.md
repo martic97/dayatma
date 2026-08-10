@@ -1,19 +1,9 @@
 ---
-tipo: regolamento
-categoria: equipaggiamento
-monete_rame:
-monete_argento:
-monete_oro:
-monete_platino:
 sticker: emoji//1f4b0
 ---
 Il denaro rappresenta la ricchezza del personaggio e viene utilizzato per acquistare equipaggiamento, servizi e oggetti.
 L'unità di riferimento principale è la **moneta d'oro (mo)**.
 
----
-```columns
-id: denaro_conversioni
-===
 ## Valore monete
 
 | Moneta | Simbolo | Valore in mo |
@@ -22,8 +12,6 @@ id: denaro_conversioni
 | Moneta d'argento | ma | 0,1 |
 | Moneta d'oro | mo | 1 |
 | Moneta di platino | mp | 10 |
-
-===
 ## Valori rapidi
 
 | Equivalenza | Risultato |
@@ -33,27 +21,20 @@ id: denaro_conversioni
 | 10 ma | 1 mo |
 | 10 mo | 1 mp |
 
-```
-
 ---
-
 # Convertitore monete
 
 Inserisci il numero di monete possedute. Il valore totale verrà convertito automaticamente.
 
-```columns
-id: convertitore_denaro
-===
 ## Monete possedute
 
-| Moneta | Quantità |
-|---|---:|
-| Monete di rame (mr) | `INPUT[number:monete_rame]` |
-| Monete d'argento (ma) | `INPUT[number:monete_argento]` |
-| Monete d'oro (mo) | `INPUT[number:monete_oro]` |
+| Moneta                 |                       Quantità |
+| ---------------------- | -----------------------------: |
+| Monete di rame (mr)    |    `INPUT[number:monete_rame]` |
+| Monete d'argento (ma)  | `INPUT[number:monete_argento]` |
+| Monete d'oro (mo)      |     `INPUT[number:monete_oro]` |
 | Monete di platino (mp) | `INPUT[number:monete_platino]` |
 
-===
 ## Valore totale
 
 ```dataviewjs

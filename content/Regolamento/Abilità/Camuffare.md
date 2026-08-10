@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1f484
 ---
-## Descrizione
-
 Rappresenta la capacità di modificare il proprio aspetto, creare travestimenti e impersonare un'altra persona o creatura.
 
 ### Caratteristica associata: [[Carisma]]

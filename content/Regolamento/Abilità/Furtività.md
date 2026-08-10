@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f977
 ---
-## Descrizione
-
 Rappresenta la capacità di passare inosservati, nascondersi e muoversi silenziosamente senza attirare l'attenzione.
 
 ### Caratteristica associata: [[Destrezza]]

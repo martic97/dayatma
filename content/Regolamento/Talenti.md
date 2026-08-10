@@ -4,10 +4,10 @@ categoria: talenti
 sticker: emoji//1f3af
 ---
 I **Talenti** rappresentano capacità speciali che permettono di personalizzare il proprio personaggio.
-Ogni talento concede un beneficio unico, come nuovi attacchi, bonus alle prove, capacità difensive o il potenziamento degli incantesimi.
+Ogni talento concede un beneficio unico, come nuovi attacchi, bonus alle prove, capacità difensive o il potenziamento degli incantesimi. 
+Per consultare tutti i talenti disponibili: [Database Talenti](https://golarion.altervista.org/wiki/Database_Talenti)
 
 ---
-
 # Ottenere un talento
 
 Un personaggio ottiene normalmente un talento:
@@ -16,7 +16,6 @@ Un personaggio ottiene normalmente un talento:
 Alcune **classi** o **razze** possono concedere talenti bonus.
 
 ---
-
 # Come scegliere un talento
 
 Quando ottieni un nuovo talento, segui questi passaggi:
@@ -56,7 +55,6 @@ Considera:
 - se offre un vantaggio immediato o a lungo termine.
 
 ---
-
 # Talenti di Metamagia
 
 I talenti di **Metamagia** modificano il funzionamento degli incantesimi.
@@ -87,13 +85,6 @@ Classi interessate:
 - Bardo
 
 ---
-
-# Database Talenti
-
-Per consultare tutti i talenti disponibili: [Database Talenti](https://golarion.altervista.org/wiki/Database_Talenti)
-
----
-
 # Checklist scelta talento
 
 - [ ] Possiedo tutti i prerequisiti?
@@ -104,7 +95,6 @@ Per consultare tutti i talenti disponibili: [Database Talenti](https://golarion.
 - [ ] È utile anche ai livelli successivi?
 
 ---
-
 # Note
 
 - Un talento può essere selezionato una sola volta, salvo diversa indicazione.

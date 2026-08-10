@@ -4,8 +4,6 @@ caratteristica: SAG
 penalita_armatura: false
 sticker: emoji//1fa7a
 ---
-## Descrizione
-
 Rappresenta la capacità di prestare cure mediche, diagnosticare malattie, stabilizzare i feriti e fornire assistenza sanitaria con strumenti adeguati.
 
 ### Caratteristica associata: [[Saggezza]]

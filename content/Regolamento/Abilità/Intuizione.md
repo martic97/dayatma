@@ -4,8 +4,6 @@ caratteristica: SAG
 penalita_armatura: false
 sticker: emoji//1f4a1
 ---
-## Descrizione
-
 Rappresenta la capacità di comprendere le intenzioni degli altri, percepire inganni e valutare il comportamento delle persone.
 
 ### Caratteristica associata: [[Saggezza]]

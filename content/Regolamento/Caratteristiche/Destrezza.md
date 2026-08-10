@@ -9,13 +9,9 @@ tiri_salvezza_collegati:
 sigla: DES
 sticker: emoji//1f938
 ---
----
-## Descrizione
-
 La **Destrezza** rappresenta l'agilità, la coordinazione, i riflessi e la precisione del personaggio. Influenza la capacità di colpire a distanza, evitare gli attacchi e reagire rapidamente ai pericoli.
 
 ---
-
 # Utilizzi principali
 
 ## Statistiche collegate
@@ -29,8 +25,6 @@ La **Destrezza** rappresenta l'agilità, la coordinazione, i riflessi e la preci
 - **Danni con armi accurate**
 - **Bonus alle Manovre in Combattimento (DMC)**
 - **Prove di abilità basate sulla Destrezza**
-
----
 
 ## Formule principali
 
@@ -55,11 +49,12 @@ Non considera:
 **DMC = 10 + BAB + Mod. Forza + Mod. Destrezza + Mod. Taglia**
 
 ---
-
 # Abilità collegate
 
-```dataview
-LIST
-FROM "0. Regolamento/Le Abilità"
-WHERE contains(caratteristica, this.sigla)
-SORT file.name
+- [[Acrobazia]]
+- [[Artista della fuga]]
+- [[Cavalcare]]
+- [[Disattivare Congegni]]
+- [[Furtività]]
+- [[Rapidità di Mano]]
+- [[Volare]]

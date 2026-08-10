@@ -5,7 +5,6 @@ Il combattimento in Pathfinder si svolge in **round**. Ogni personaggio agisce d
 Durante il proprio turno un personaggio può compiere diverse azioni, attaccare, lanciare incantesimi o utilizzare capacità speciali.
 
 ---
-
 # Formule principali
 
 | Meccanica | Formula |

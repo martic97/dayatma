@@ -4,8 +4,6 @@ caratteristica: INT
 penalita_armatura: false
 sticker: emoji//1f48e
 ---
-## Descrizione
-
 Rappresenta la capacità di stimare il valore economico di oggetti, materiali preziosi e beni di diversa natura.
 
 ### Caratteristica associata: [[Intelligenza]]

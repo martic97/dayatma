@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1faf5
 ---
-## Descrizione
-
 Rappresenta la capacità di influenzare gli altri attraverso minacce, presenza, autorità o forza della personalità.
 
 ### Caratteristica associata: [[Carisma]]

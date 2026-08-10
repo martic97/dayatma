@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1f415
 ---
-## Descrizione
-
 Rappresenta la capacità di comunicare con gli animali, insegnare loro comandi, addestrarli e gestirli in diverse situazioni.
 
 ### Caratteristica associata: [[Carisma]]

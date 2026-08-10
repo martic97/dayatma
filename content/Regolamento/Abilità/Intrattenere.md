@@ -4,8 +4,6 @@ caratteristica: CAR
 penalita_armatura: false
 sticker: emoji//1f3bb
 ---
-## Descrizione
-
 Rappresenta la capacità di esibirsi in una forma d'arte, divertire un pubblico e impressionare gli spettatori attraverso il proprio talento.
 
 ### Caratteristica associata: [[Carisma]]

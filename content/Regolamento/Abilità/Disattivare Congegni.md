@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f5dd-fe0f
 ---
-## Descrizione
-
 Rappresenta la capacità di individuare, disarmare o sabotare congegni meccanici, oltre ad aprire serrature mediante gli strumenti appropriati.
 
 ### Caratteristica associata: [[Destrezza]]

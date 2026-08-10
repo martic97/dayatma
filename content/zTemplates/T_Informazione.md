@@ -7,7 +7,6 @@ stato:
   - Confermata
 importanza:
   - 
-prima_scoperta:
 sessioni:
   - 
 npc:
@@ -33,20 +32,12 @@ missioni:
 > **Scoperta in:** `= this.prima_scoperta`
 
 ---
-
 # Descrizione
 
 {{descrizione_breve}}
 
 ---
-
-# Dettagli
-
-Sviluppo della conoscenza, collegamenti, approfondimenti.
-
----
-
-# Evoluzione della conoscenza
+# Informazioni note
 
 ## Scoperte iniziali
 
@@ -67,60 +58,26 @@ Sviluppo della conoscenza, collegamenti, approfondimenti.
 - 
 
 ---
-
 # Collegamenti
 
-## 👤 NPC collegati
+## 📜 Missioni
 
-```dataview
-LIST
-FROM "02 - Ambientazione/NPC"
-WHERE contains(conoscenze, this.file.link)
-```
+- 
 
----
+## 📅 Sessioni
 
-## 🏛 Fazioni collegate
+- 
 
-```dataview
-LIST
-FROM "02 - Ambientazione/Fazioni"
-WHERE contains(conoscenze, this.file.link)
-```
+## 👥 NPC collegati
 
----
+- 
 
 ## 📍 Luoghi collegati
 
-```dataview
-LIST
-FROM "02 - Ambientazione/Luoghi"
-WHERE contains(conoscenze, this.file.link)
-```
+- 
+
 
 ---
+# Note
 
-## 📜 Missioni collegate
-
-```dataview
-LIST
-FROM "03 - Campagna/Missioni"
-WHERE contains(conoscenze, this.file.link)
-```
-
----
-
-## 📅 Sessioni in cui compare
-
-```dataview
-TABLE data_reale AS "Data"
-FROM "03 - Campagna/Sessioni"
-WHERE contains(conoscenze, this.file.link)
-SORT numero ASC
-```
-
----
-
-# Note personali
-
--
+- 

@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f3c3
 ---
-## Descrizione
-
 Rappresenta la capacità di liberarsi da legami, manette, corde, prese e situazioni in cui il personaggio è intrappolato o limitato nei movimenti.
 
 ### Caratteristica associata: [[Destrezza]]

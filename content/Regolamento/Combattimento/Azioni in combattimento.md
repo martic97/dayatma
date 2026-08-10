@@ -12,6 +12,7 @@ Un turno normalmente comprende:
 
 In alternativa è possibile utilizzare un'**azione di round completo**.
 
+---
 # Tipi di azione
 
 | Tipo di azione | Descrizione |
@@ -77,7 +78,6 @@ Un Attacco di Opportunità si verifica quando:
 	- Alcuni talenti o capacità possono modificare questo limite.
 
 ---
-
 # Note
 
 - Un personaggio può normalmente combinare un'azione standard e un'azione di movimento nello stesso turno.

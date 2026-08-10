@@ -1,14 +1,11 @@
 ---
 type: missione
 nome:
-stato:
-  - Attiva
+stato: []
 origine:
   - 
 priorita:
   - 
-data_inizio:
-data_conclusione:
 committente:
 personale_di:
 fazioni:
@@ -30,110 +27,54 @@ ricompensa:
 > **Origine:** `= this.origine`
 >
 > **Priorità:** `= this.priorita`
->
-> **Inizio:** `= this.data_inizio`
+> 
+> **Da Fare:** -
 
 ---
-
 # Descrizione
 
 {{descrizione_breve}}
 
----
+## Obiettivi
 
-# Obiettivi
+- 
 
-## Obiettivo principale
+## Informazioni raccolte
 
-- [ ]
+- 
 
-## Obiettivi secondari
+## Decisioni del gruppo
 
-- [ ]
-
----
-
-# Stato di avanzamento
-
-## Completati
-
-- [x]
-
-## In corso
-
-- [ ]
-
-## Da fare
-
-- [ ]
+- 
 
 ---
-
-# Informazioni raccolte
-
--
-
----
-
-# Decisioni del gruppo
-
--
-
----
-
 # Collegamenti
 
-## 👤 NPC coinvolti
+## 📜 Missioni
 
-```dataview
-LIST
-FROM "02 - Ambientazione/NPC"
-WHERE contains(file.link, this.npc)
-```
-
----
-
-## 🏛 Fazioni coinvolte
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Fazioni"
-WHERE contains(file.link, this.fazioni)
-```
-
----
-
-## 📍 Luoghi
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Luoghi"
-WHERE contains(file.link, this.luoghi)
-```
-
----
-
-## 🎒 Oggetti
-
-```dataview
-LIST
-FROM "02 - Ambientazione/Oggetti"
-WHERE contains(file.link, this.oggetti)
-```
-
----
+- 
 
 ## 📅 Sessioni
 
-```dataview
-TABLE data AS "Data"
-FROM "03 - Campagna/Sessioni"
-WHERE contains(missioni, this.file.link)
-SORT data DESC
-```
+- 
+
+## 👥 NPC coinvolti
+
+- 
+
+## 📍 Luoghi
+
+- 
+
+## 🏛 Fazioni coinvolte
+
+- 
+
+## 🎒 Oggetti
+
+- 
 
 ---
+# Note
 
-# Note personali
-
--
+- 

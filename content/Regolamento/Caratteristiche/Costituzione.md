@@ -9,13 +9,9 @@ tiri_salvezza_collegati:
 sigla: COS
 sticker: emoji//1f9f1
 ---
----
-## Descrizione
-
 La **Costituzione** rappresenta la salute, la resistenza fisica e la capacità del personaggio di sopportare ferite, malattie, veleni e condizioni debilitanti.
 
 ---
-
 # Utilizzi principali
 
 ## Statistiche collegate
@@ -24,8 +20,6 @@ La **Costituzione** rappresenta la salute, la resistenza fisica e la capacità d
 - **Tiri salvezza sulla Tempra**
 - **Prove di resistenza fisica**
 - **Resistenza a veleni, malattie e affaticamento**
-
----
 
 ## Formule principali
 
@@ -46,5 +40,3 @@ Utilizzato contro:
 - Malattie
 - Effetti fisici debilitanti
 - Effetti che mettono alla prova la resistenza del corpo
-
----

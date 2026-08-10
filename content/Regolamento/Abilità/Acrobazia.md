@@ -4,8 +4,6 @@ caratteristica: DES
 penalita_armatura: true
 sticker: emoji//1f938
 ---
-## Descrizione
-
 Rappresenta la capacità di muoversi con agilità, mantenere l'equilibrio e compiere movimenti acrobatici come salti, capriole e manovre evasive.
 
 ### Caratteristica associata: [[Destrezza]]

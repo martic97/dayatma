@@ -7,19 +7,15 @@ Un attacco con un'arma consiste in un **Tiro per Colpire (TpC)** effettuato cont
 Se il risultato del TpC è uguale o superiore alla CA, l'attacco va a segno.
 
 ---
-
 # Tiro per Colpire (TpC)
-```columns
-id: tpc_armi
-===
+
 ## ⚔️ Attacco in mischia
 
 **BAB + Mod. [[Forza]] + Mod. Taglia + Modificatori**
-===
+
 ## 🏹 Attacco a distanza
 
 **BAB + Mod. [[Destrezza]] + Mod. Taglia + Modificatori**
-```
 
 ## Modificatori al combattimento
 
@@ -32,7 +28,6 @@ id: tpc_armi
 | Ogni incremento di gittata oltre il primo | -2 al TpC |
 
 ---
-
 # Classe Armatura (CA)
 
 La **Classe Armatura (CA)** rappresenta quanto è difficile colpire un bersaglio.
@@ -78,7 +73,6 @@ Quando un personaggio è **impreparato**:
 - non può effettuare Attacchi di Opportunità fino al proprio primo turno.
 
 ---
-
 # Danni
 
 Quando un attacco colpisce, si tira il dado dell'arma e si applicano gli eventuali modificatori.
@@ -101,7 +95,6 @@ Quando si ottiene una minaccia:
 3. I danni vengono moltiplicati secondo l'arma.
 
 ---
-
 # Note
 
 - Alcuni talenti, capacità di classe e oggetti possono modificare il TpC o i danni.

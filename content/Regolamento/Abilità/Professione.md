@@ -4,8 +4,6 @@ caratteristica: SAG
 penalita_armatura: false
 sticker: emoji//1f4bc
 ---
-## Descrizione
-
 Rappresenta l'esperienza del personaggio in un mestiere o in un'attività lavorativa specifica.
 
 ### Caratteristica associata: [[Saggezza]]

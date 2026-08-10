@@ -13,7 +13,6 @@ Quando i PF raggiungono valori critici, il personaggio può diventare **morente*
 | PF al limite negativo     | Il personaggio effettua i **Tiri contro Morte**. |
 
 ---
-
 # Morente
 
 Quando un personaggio raggiunge **0 PF o meno**:
@@ -47,7 +46,6 @@ Se la prova riesce:
 - rimane privo di sensi.
 
 ---
-
 # Tiri contro Morte
 
 Quando un personaggio raggiunge un valore di PF pari al proprio limite negativo (**- PF massimi**)
@@ -83,7 +81,6 @@ La prova fornisce **vantaggio al Tiro contro Morte** .
 | 4°                |         25 |
 
 ---
-
 # Note
 
 - Le cure ricevute mentre si è morenti possono riportare i PF sopra 0, permettendo di tornare coscienti.

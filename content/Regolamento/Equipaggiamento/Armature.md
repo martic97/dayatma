@@ -8,7 +8,6 @@ Le **armature** proteggono il personaggio dagli attacchi aumentando la **Classe 
 Le armature più pesanti offrono maggiore protezione, ma possono limitare i movimenti, ridurre la mobilità e interferire con alcune capacità.
 
 ---
-
 # Competenza nelle armature
 
 Per utilizzare un'armatura senza penalità è necessario possedere la relativa **competenza**.
@@ -16,7 +15,6 @@ Le competenze nelle armature (leggere, medie o pesanti) dipendono principalmente
 Un personaggio che indossa un'**armatura con cui non è competente** subisce le **penalità** previste dal regolamento.
 
 ---
-
 # Come leggere un'armatura
 
 Ogni armatura presenta diverse caratteristiche:
@@ -30,43 +28,39 @@ Ogni armatura presenta diverse caratteristiche:
 | Fallimento incantesimi arcani | Possibilità di fallire incantesimi con componente somatica |
 | Peso | Ingombro dell'armatura |
 
----
-
-# Bonus Destrezza massimo
+## Bonus Destrezza massimo
 
 Le armature limitano la capacità del personaggio di sfruttare la propria agilità.
 Se un'armatura possiede un **bonus Destrezza massimo**, il modificatore di Destrezza applicato alla CA non può superare quel valore.
 - Esempio: Un personaggio con Destrezza +4 che indossa un'armatura con Bonus Destrezza massimo +2 aggiunge solo +2 alla CA.
 
----
-
-# Penalità alle abilità
+## Penalità alle abilità
 
 Alcune armature rendono più difficili i movimenti e applicano una penalità alle prove di abilità.
 
-## Abilità influenzate
+### Abilità influenzate
 
-```dataview
-LIST
-FROM "0. Regolamento/Le Abilità"
-WHERE penalita_armatura = true
-SORT file.name
-```
+- [[Acrobazia]]
+- [[Artista della fuga]]
+- [[Cavalcare]]
+- [[Disattivare Congegni]]
+- [[Furtività]]
+- [[Nuotare]]
+- [[Rapidità di Mano]]
+- [[Scalare]]
+- [[Volare]]
 
----
-
-# Armature e incantesimi
+## Armature e incantesimi
 
 Le armature possono causare **fallimento degli incantesimi arcani** con componente somatica.
 La penalità riguarda principalmente:
-- [[Mago]]
-- [[Stregone]]
-- [[Bardo]]
+- Mago
+- Stregone
+- Bardo
 	- può lanciare incantesimi arcani in armatura leggera e/o scudo leggero senza subire il rischio di fallimento degli incantesimi.
 Gli incantatori divini normalmente non subiscono questa limitazione.
 
 ---
-
 # Indossare un'armatura
 
 | Equipaggiamento  | Tempo necessario |

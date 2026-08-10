@@ -4,8 +4,6 @@ caratteristica: INT
 penalita_armatura: false
 sticker: emoji//1f4ab
 ---
-## Descrizione
-
 Rappresenta la conoscenza della magia, degli incantesimi e degli oggetti magici. Permette di riconoscere e comprendere i fenomeni magici.
 
 ### Caratteristica associata: [[Intelligenza]]

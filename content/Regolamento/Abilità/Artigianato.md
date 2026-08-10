@@ -4,8 +4,6 @@ caratteristica: INT
 penalita_armatura: false
 sticker: emoji//1f6e0-fe0f
 ---
-## Descrizione
-
 Rappresenta la capacità di creare oggetti attraverso una specifica competenza artigianale, utilizzando strumenti e materiali adeguati.
 
 ### Caratteristica associata: [[Intelligenza]]
